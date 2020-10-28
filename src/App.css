@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+  background-color: lightskyblue;
+  min-height: 100vh;
+}
+
+.container h1 {
+  padding-top: 3vh;
+  font-size: 50px;
+  text-align: center;
+  color: whitesmoke;
+  padding-bottom: 10vh;
+}
+
+.container .card {
+  border-radius: 10px;
+  text-align: center;
+  background-color: cornflowerblue;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  height: 30vh;
+}
+
+.container .card .number {
+  padding-top: 3vh;
+  color: whitesmoke;
+}
+
+.container .card .number p {
+  font-size: 35px;
+}
+
+.container .card .column {
+  padding-top: 3vh;
+}
+
+.container .card .column input {
+  height: 3vh;
+  background: lightskyblue;
+  border: none;
+  color: whitesmoke;
+  font-size: 20px;
+  text-align: center;
+  margin-left: 2vw;
+}
+
+.container .card button {
+  margin-top: 5vh;
+  height: 7vh;
+  width: 30vw;
+  font-size: 25px;
+  background-color: lightskyblue;
+  border-radius: 10px;
+  border: none;
+  color: whitesmoke;
+}
+/*# sourceMappingURL=App.css.map */

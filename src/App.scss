@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container {
+  background-color: lightskyblue;
+  min-height: 100vh;
+
+  h1 {
+    padding-top: 3vh;
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 10vh;
+  }
+
+  .card {
+    border-radius: 10px;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin-left: 20vw; 
+    margin-right: 20vw;
+    height: 30vh;
+    .number {
+      padding-top: 3vh;
+      color: whitesmoke;
+      p{
+        font-size: 35px;
+      }
+    }
+
+    .column {
+      padding-top: 3vh;
+      input{
+        height: 3vh;
+        background: lightskyblue;
+        border: none;
+        color: whitesmoke;
+        font-size: 20px;
+        text-align: center;
+        margin-left: 2vw;
+      }
+      
+    }
+    button{
+      margin-top: 5vh;
+      height: 7vh;
+      width: 30vw;
+      font-size: 25px;
+      background-color: lightskyblue;
+      border-radius: 10px;
+      border: none;
+      color: whitesmoke;
+    }
+
+
+  }
+
+
+
+
+}
