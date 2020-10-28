@@ -23,7 +23,7 @@ return (
     <div className="card">
 
         <div className="number">
-            <p>NUMBER -> <span>{random}</span></p>
+            <p>NUMBER <span>{random}</span></p>
         </div>
 
         <div className="column">
