@@ -6,7 +6,7 @@
 
 
 .container {
-  background-color: lightskyblue;
+  background-color: black;
   min-height: 100vh;
 
   h1 {
@@ -20,7 +20,7 @@
   .card {
     border-radius: 10px;
     text-align: center;
-    background-color: cornflowerblue;
+    background-color: silver;
     margin-left: 20vw; 
     margin-right: 20vw;
     height: 30vh;
@@ -36,7 +36,7 @@
       padding-top: 3vh;
       input{
         height: 3vh;
-        background: lightskyblue;
+        background: black;
         border: none;
         color: whitesmoke;
         font-size: 20px;
@@ -50,7 +50,7 @@
       height: 7vh;
       width: 30vw;
       font-size: 25px;
-      background-color: lightskyblue;
+      background-color: black;
       border-radius: 10px;
       border: none;
       color: whitesmoke;

@@ -1,4 +1,4 @@
-import './App.css';
+import './App.css'
 import Random from './components/Random'
 
 function App() {
