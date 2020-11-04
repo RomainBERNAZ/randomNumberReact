@@ -1,3 +1,8 @@
+@font-face{
+  font-family: Morganite;
+  src: url('./Morganite/Morganite-Bold.ttf')
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -5,55 +10,73 @@
 }
 
 
-.container {
-  background-color: black;
+.App {
+  background-color:  #A49C9B;
   min-height: 100vh;
+  display: flex;
+  justify-content: center;
 
   h1 {
+    font-family: Morganite;
     padding-top: 3vh;
-    font-size: 50px;
+    font-size: 11rem;
     text-align: center;
-    color: whitesmoke;
+    color: black;
     padding-bottom: 10vh;
+    span{
+      color: white;
+      
+    }
   }
+  .container{
+    width: 30vw;
+  }
+
 
   .card {
     border-radius: 10px;
     text-align: center;
-    background-color: silver;
-    margin-left: 20vw; 
-    margin-right: 20vw;
+    background-color: black;
     height: 30vh;
     .number {
-      padding-top: 3vh;
+      padding-top: 2vh;
       color: whitesmoke;
-      p{
-        font-size: 35px;
-      }
+      font-family: Morganite;
+      font-size:4rem;
+     
     }
 
     .column {
       padding-top: 3vh;
       input{
-        height: 3vh;
-        background: black;
+        height: 3rem;
+        background: white;
         border: none;
-        color: whitesmoke;
-        font-size: 20px;
+        width: 20%;
+        font-family: Morganite;
+        font-size: 3.5rem;
+        color: #A49C9B;
         text-align: center;
-        margin-left: 2vw;
+      }
+      .inputLeft{
+        margin-left: 2vh;
       }
       
     }
     button{
-      margin-top: 5vh;
+      margin-top: 3vh;
       height: 7vh;
-      width: 30vw;
-      font-size: 25px;
-      background-color: black;
+      font-family: Morganite;
+      width: 20vw;
+      font-size: 4rem;
+      background-color: white;
       border-radius: 10px;
       border: none;
-      color: whitesmoke;
+      color: #A49C9B
+    }
+    button:hover{
+      color:white;
+      background-color:#A49C9B;
     }
 
 
