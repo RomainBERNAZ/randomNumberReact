@@ -15,6 +15,8 @@ const randomizer = () => {
 setRandom(Math.floor(Math.random() * (max - min +1) +min));
 }
 
+
+
 return (
 <div className="container">
     <h1><span>R</span>ANDOM NUMBE<span>R</span></h1>
@@ -27,6 +29,9 @@ return (
             <input className="inputLeft" value={max} onChange={e=> setMax(+e.target.value)} type="number" />
         </div>
         <button onClick={randomizer}>Get A Random Number</button>
+    </div>
+    <div className="return">
+         <a href="https://romainbernaz.github.io/portfolioV2/"><button>BACK</button></a>
     </div>
 </div>
 );
