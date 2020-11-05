@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/randomNumberReact/static/css/main.31e80e57.chunk.css",
-    "main.js": "/randomNumberReact/static/js/main.45c5cadc.chunk.js",
-    "main.js.map": "/randomNumberReact/static/js/main.45c5cadc.chunk.js.map",
+    "main.css": "/randomNumberReact/static/css/main.0adf2bb3.chunk.css",
+    "main.js": "/randomNumberReact/static/js/main.862f25f7.chunk.js",
+    "main.js.map": "/randomNumberReact/static/js/main.862f25f7.chunk.js.map",
     "runtime-main.js": "/randomNumberReact/static/js/runtime-main.cd757939.js",
     "runtime-main.js.map": "/randomNumberReact/static/js/runtime-main.cd757939.js.map",
     "static/js/2.26fba87c.chunk.js": "/randomNumberReact/static/js/2.26fba87c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.43fbc2c6.chunk.js": "/randomNumberReact/static/js/3.43fbc2c6.chunk.js",
     "static/js/3.43fbc2c6.chunk.js.map": "/randomNumberReact/static/js/3.43fbc2c6.chunk.js.map",
     "index.html": "/randomNumberReact/index.html",
-    "static/css/main.31e80e57.chunk.css.map": "/randomNumberReact/static/css/main.31e80e57.chunk.css.map",
+    "static/css/main.0adf2bb3.chunk.css.map": "/randomNumberReact/static/css/main.0adf2bb3.chunk.css.map",
     "static/js/2.26fba87c.chunk.js.LICENSE.txt": "/randomNumberReact/static/js/2.26fba87c.chunk.js.LICENSE.txt",
     "static/media/App.css": "/randomNumberReact/static/media/Morganite-Bold.25e67bb2.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.cd757939.js",
     "static/js/2.26fba87c.chunk.js",
-    "static/css/main.31e80e57.chunk.css",
-    "static/js/main.45c5cadc.chunk.js"
+    "static/css/main.0adf2bb3.chunk.css",
+    "static/js/main.862f25f7.chunk.js"
   ]
 }
